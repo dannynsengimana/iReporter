@@ -4,7 +4,7 @@ import React from 'react';
 function Sign_in() {
   return (
     <form>
-                <h3>Sign In</h3>
+                <h3>Sign In </h3>
 
                 <div className="form-group">
                     <label>Email address</label>
