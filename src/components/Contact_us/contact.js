@@ -3,7 +3,7 @@ import { Link } from "react-router-dom";
 import Footer from '../Home/Footer/footer';
 
 
-function About() {
+function Contact() {
   return (
     <div className="container">
       <div className="header">
@@ -38,4 +38,4 @@ function About() {
   );
 }
 
-export default About;
+export default Contact;
